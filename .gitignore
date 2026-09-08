@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
+
+# artifacts and reports, kept locally, not published
+docs/
+evidence/
+output_eval_dataset.jsonl
+EVALUATION_OBSERVATIONS.md
